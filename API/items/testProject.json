@@ -14,6 +14,22 @@
         {},
         {}
     ],
+    "noVersions": true,
     "versions": [
+        {
+            "verTitle": "Test-Parse v0.1",
+            "verMC": "1.19.3",
+            "link": ""
+        },
+        {
+            "verTitle": "Test-Parse v1.1H",
+            "verMC": "1.19 - 1.19.2",
+            "link": ""
+        },
+        {
+            "verTitle": "Test-Parse v0.1",
+            "verMC": "1.18.4",
+            "link": ""
+        }
     ]
 }
