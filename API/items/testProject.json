@@ -30,6 +30,11 @@
             "verTitle": "Test-Parse v0.1",
             "verMC": "1.18.4",
             "link": ""
+        },
+        {
+            "verTitle": "Secret-Update v0.0.1",
+            "verMC": "1.12.2",
+            "link": ""
         }
     ]
 }
