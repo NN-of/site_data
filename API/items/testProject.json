@@ -1,6 +1,24 @@
 {
     "id": "testProject",
     "title": "Test Project",
-    "description": "Nulla est nostrud cillum commodo magna cupidatat consequat mollit esse voluptate deserunt."
-
+    "description": "Nulla est nostrud cillum commodo magna cupidatat consequat mollit esse voluptate deserunt.",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "versions": [
+        {
+            "verTitle": "Test-Parse v0.1",
+            "verMC": "1.19.3",
+            "link": ""
+        },
+        {
+            "verTitle": "Test-Parse v1.1H",
+            "verMC": "1.19 - 1.19.2",
+            "link": ""
+        },
+        {
+            "verTitle": "Test-Parse v0.1",
+            "verMC": "1.18.4",
+            "link": ""
+        }
+    ]
 }
