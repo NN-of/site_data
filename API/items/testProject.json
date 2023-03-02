@@ -4,6 +4,11 @@
     "description": "Nulla est nostrud cillum commodo magna cupidatat consequat mollit esse voluptate deserunt.",
     "timeCreated": "",
     "timeUpdated": "",
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Владелец"},
+        {"name": "Maestro_Play", "nameMC": "maestro_playa", "subRole": ""},
+        {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""}
+    ],
     "versions": [
         {
             "verTitle": "Test-Parse v0.1",
