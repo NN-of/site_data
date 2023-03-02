@@ -11,10 +11,11 @@
         {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""}
     ],
     "resources":[
-        {},
-        {}
+        {"id": "PMC", "link": ""},
+        {"id": "Modrinth", "link": ""},
+        {"id": "GitHub", "link": ""}
     ],
-    "noVersions": true,
+    "noVersions": false,
     "versions": [
         {
             "verTitle": "Test-Parse v0.1",
