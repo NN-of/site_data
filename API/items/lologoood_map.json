@@ -1,0 +1,19 @@
+{
+    "id": "lologoood_map",
+    "title": "LoloGood Mini-Games Map",
+    "description": "Карта, сделанная для Лологуда, как подарок на дерь рождения",
+    "img": "color",
+    "color": "#99ff33",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "tags": ["map"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Разработчик"},
+        {"name": "Pe3ep", "nameMC": "Pe3ep", "subRole": "Модели/текстуры"}
+    ],
+    "resources":[
+        {"id": "PMC", "link": "https://www.planetminecraft.com/project/lologoood-a/"}
+    ],
+    "noVersions": true,
+    "versions": []
+}
