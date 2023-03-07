@@ -1,0 +1,64 @@
+{
+    "id": "debbikcraft_rp",
+    "title": "DebbikCraft Resource Pack",
+    "description": "Ресурс пак с кастомными текстурами, сделанный специально для DCSMP",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "tags": ["resourcepack"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Владелец"},
+        {"name": "Maestro_Play", "nameMC": "maestro_playa", "subRole": ""},
+        {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""}
+    ],
+    "resources":[
+        {"id": "GitHub", "link": "https://github.com/NN-of/DebbikCraft-RP"}
+    ],
+    "noVersions": false,
+    "versions": [
+        {
+            "verTitle": "DebbikCraft RP v5.1.1",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v5.1.1/DebbikCraft_RP_Pack_v5.1.1.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v5.1",
+            "verMC": "1.19.0 - 1.19.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v5.1/DebbikCraft_RP_Pack_v5.1.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v5.0",
+            "verMC": "1.19.0 - 1.19.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v5.0/DebbikCraft.RP.v5.0.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v4.1",
+            "verMC": "1.18.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v4.1/DebbikCraft.RP.v4.1.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v4.0",
+            "verMC": "1.18.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v4.0/DebbikCraft.RP.Pack.v4.0.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v3.1b",
+            "verMC": "1.17.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v3.1.1/DebbikCraft.RP.v3.1b.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v3.1",
+            "verMC": "1.17.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v3.1/DebbikCraft.RP.v3.1.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v3.0",
+            "verMC": "1.17.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v3.0/DebbikCraft.RP.v3.0.zip"
+        },
+        {
+            "verTitle": "DebbikCraft RP v2.1",
+            "verMC": "1.17.2",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v2.1/DebbikCraft.RP.v2.1.zip"
+        }
+    ]
+}
