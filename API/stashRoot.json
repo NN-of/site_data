@@ -24,7 +24,7 @@
             "description": "dis's vry shrt",
             "tags": ["map", "nn"],
             "date": "21 декабря 2023",
-            "img": ""
+            "img": "testProject"
         },
         {
             "id": "testlink3",
@@ -32,7 +32,8 @@
             "description": "This is very-very-very-very long sentence wowe omg no wayayayyayay lol",
             "tags": ["datapack", "npl"],
             "date": "21 декабря 2023",
-            "img": ""
+            "img": "color",
+            "color":"#008080"
         },
         {
             "id": "testlink4",

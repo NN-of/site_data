@@ -4,6 +4,8 @@
     "description": "Nulla est nostrud cillum commodo magna cupidatat consequat mollit esse voluptate deserunt.",
     "timeCreated": "",
     "timeUpdated": "",
+    "img": "color",
+    "color":"#008080",
     "tags": ["datapack", "map"],
     "authors": [
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Владелец"},
