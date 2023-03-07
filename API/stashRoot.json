@@ -8,7 +8,7 @@
             "description": "Основной ресурспак с кастомными текстурами и моделями для сервера.",
             "tags": ["resourcepack", "nn"],
             "date": "30 января 2023",
-            "img": "dcrp"
+            "img": "debbikcraft_rp"
         },
         {
             "id": "lologoood_map",
@@ -16,7 +16,7 @@
             "description": "Карта с 4 мини-играми, сделанная на день рождения LoloGood'a",
             "tags": ["map", "datapack", "npl"],
             "date": "21 декабря 2023",
-            "img": "llgmap"
+            "img": "lologoood_map"
         },
         {
             "id": "testProject",
