@@ -27,21 +27,22 @@
             "img": ""
         },
         {
-            "id": "testlink3",
-            "title": "Test title 3",
-            "description": "This is very-very-very-very long sentence wowe omg no wayayayyayay lol",
-            "tags": ["datapack", "npl"],
-            "date": "21 декабря 2023",
+            "id": "dcmp",
+            "title": "DebbikCraft Modpack",
+            "description": "Модпак, собранный специально для SMP сервера DebbikCraft",
+            "tags": ["modpack", "nn"],
+            "date": "9 февраля 2023",
             "img": "color",
             "color":"#008080"
         },
         {
-            "id": "testlink4",
-            "title": "Test title 4",
-            "description": "This is short...",
-            "tags": ["resourcepack", "nn"],
-            "date": "21 декабря 2023",
-            "img": ""
+            "id": "dcmpe",
+            "title": "DC Modpack: Essentials",
+            "description": "Урезанный модпак, собранный специально для SMP сервера DebbikCraft",
+            "tags": ["modpack", "nn"],
+            "date": "9 февраля 2023",
+            "img": "color",
+            "color":"#008080"
         }
     ]
 }
