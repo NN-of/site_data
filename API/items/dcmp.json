@@ -1,0 +1,30 @@
+{
+    "id": "dcmp",
+    "title": "DebbikCraft Modpack",
+    "description": "Полезный модпак, собранный специально для DCSMP",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "logo": "logo",
+    "img": "color",
+    "color":"#008080",
+    "tags": ["datapack"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Сборщик"}
+    ],
+    "resources":[
+        {"id": "GitHub", "link": "https://github.com/NN-of/DC-Modpacks"}
+    ],
+    "noVersions": false,
+    "versions": [
+        {
+            "verTitle": "DC Modpack v1.0",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DC-Modpacks/releases/download/v1.0/DC.Modpack.mrpack"
+        },
+        {
+            "verTitle": "DC Modpack v1.0-zip",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DC-Modpacks/releases/download/v1.0/DC.Modpack.zip"
+        }
+    ]
+}
