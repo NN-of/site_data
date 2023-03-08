@@ -1,0 +1,30 @@
+{
+    "id": "dcmpe",
+    "title": "DebbikCraft Modpack: Essentials",
+    "description": "Модпак поменьше, собранный специально для DCSMP",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "logo": "logo",
+    "img": "color",
+    "color":"#808080",
+    "tags": ["modpack"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Сборщик"}
+    ],
+    "resources":[
+        {"id": "GitHub", "link": "https://github.com/NN-of/DC-Modpacks"}
+    ],
+    "noVersions": false,
+    "versions": [
+        {
+            "verTitle": "DC Modpack: Essentials v1.0",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DC-Modpacks/releases/download/v1.0/DC.Modpack.Essentials.mrpack"
+        },
+        {
+            "verTitle": "DC Modpack: Essentials v1.0-zip",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DC-Modpacks/releases/download/v1.0/DC.Modpack.Essentials.zip"
+        }
+    ]
+}

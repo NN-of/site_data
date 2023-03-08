@@ -7,7 +7,7 @@
     "logo": "logo",
     "img": "color",
     "color":"#008080",
-    "tags": ["datapack"],
+    "tags": ["modpack"],
     "authors": [
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Сборщик"}
     ],
