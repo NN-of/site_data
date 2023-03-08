@@ -15,6 +15,7 @@
     "resources":[
         {"id": "GitHub", "link": "https://github.com/NN-of/DebbikCraft-RP"}
     ],
+    "noDesc": true,
     "noVersions": false,
     "versions": [
         {

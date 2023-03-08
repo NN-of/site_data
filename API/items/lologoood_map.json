@@ -11,6 +11,7 @@
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Разработчик"},
         {"name": "Pe3ep", "nameMC": "Pe3ep", "subRole": "Модели/текстуры"}
     ],
+    "noDesc": true,
     "resources":[
         {"id": "PMC", "link": "https://www.planetminecraft.com/project/lologoood-a/"}
     ],
