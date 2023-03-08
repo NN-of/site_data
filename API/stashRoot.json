@@ -19,14 +19,6 @@
             "img": "lologoood_map/bg"
         },
         {
-            "id": "testProject",
-            "title": "Test title 2",
-            "description": "dis's vry shrt",
-            "tags": ["map", "nn"],
-            "date": "21 декабря 2023",
-            "img": ""
-        },
-        {
             "id": "dcmp",
             "title": "DebbikCraft Modpack",
             "description": "Модпак, собранный специально для SMP сервера DebbikCraft",
@@ -42,7 +34,7 @@
             "tags": ["modpack", "nn"],
             "date": "9 февраля 2023",
             "img": "color",
-            "color":"#008080"
+            "color":"#808080"
         }
     ]
 }
