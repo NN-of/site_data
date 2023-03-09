@@ -8,7 +8,8 @@
             "description": "Основной ресурспак с кастомными текстурами и моделями для сервера.",
             "tags": ["resourcepack", "nn"],
             "date": "30 января 2023",
-            "img": "debbikcraft_rp/bg"
+            "img": "bg",
+            "logo": "logo"
         },
         {
             "id": "lologoood_map",
@@ -16,7 +17,8 @@
             "description": "Карта с 4 мини-играми, сделанная на день рождения LoloGood'a",
             "tags": ["map", "datapack", "npl"],
             "date": "21 декабря 2023",
-            "img": "lologoood_map/bg"
+            "img": "bg",
+            "logo": "logo"
         },
         {
             "id": "dcmp",
@@ -24,6 +26,7 @@
             "description": "Модпак, собранный специально для SMP сервера DebbikCraft",
             "tags": ["modpack", "nn"],
             "date": "9 февраля 2023",
+            "logo": "logo",
             "img": "color",
             "color":"#008080"
         },
@@ -33,6 +36,7 @@
             "description": "Урезанный модпак, собранный специально для SMP сервера DebbikCraft",
             "tags": ["modpack", "nn"],
             "date": "9 февраля 2023",
+            "logo": "logo",
             "img": "color",
             "color":"#808080"
         }
