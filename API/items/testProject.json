@@ -18,7 +18,8 @@
         {"id": "Modrinth", "link": ""},
         {"id": "GitHub", "link": ""}
     ],
-    "noDesc": true,
+    "noDesc": false,
+    "desc": "testProject",
     "noVersions": false,
     "versions": [
         {
