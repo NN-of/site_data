@@ -14,8 +14,7 @@
     "resources":[
         {"id": "GitHub", "link": "https://github.com/NN-of/DC-Modpacks"}
     ],
-    "noDesc": false,
-    "desc": "dcrp",
+    "noDesc": true,
     "noVersions": false,
     "versions": [
         {
