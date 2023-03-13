@@ -11,7 +11,7 @@
     "patches":[
         {
             "ver": "0.6.4",
-            "commit": "",
+            "commit": "fb0dbf8",
             "state": "dev",
             "title": "Go mobile!",
             "descripton": "Это что, мобильная версия?",
@@ -24,7 +24,7 @@
         },
         {
             "ver": "0.6.3a",
-            "commit": "",
+            "commit": "ce5a6b7",
             "state": "patch",
             "title": "Small details",
             "descripton": "Приятное для глаз",
