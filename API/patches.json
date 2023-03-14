@@ -11,7 +11,7 @@
     "patches":[
         {
             "ver": "0.6.5",
-            "commit": "fb0dbf8",
+            "commit": "82bcb55",
             "state": "dev",
             "title": "Go mobile 2: Electric Boogaloo!",
             "descripton": "Это что, мобильная версия для /links?",
@@ -24,7 +24,7 @@
         {
             "ver": "0.6.4",
             "commit": "fb0dbf8",
-            "state": "dev",
+            "state": "",
             "title": "Go mobile!",
             "descripton": "Это что, мобильная версия?",
             "date": "14 марта 2023",
