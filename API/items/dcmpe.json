@@ -10,7 +10,7 @@
     "tags": ["modpack"],
     "authors": [
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Владелец"},
-        {"name": "Maestro_Play", "nameMC": "maestro_playa", "subRole": "Сборщик"}
+        {"name": "Maestro_Playa", "nameMC": "maestro_playa", "subRole": "Сборщик"}
     ],
     "resources":[
         {"id": "GitHub", "link": "https://github.com/NN-of/DC-Modpacks"}

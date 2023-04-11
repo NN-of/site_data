@@ -10,7 +10,7 @@
     "tags": ["datapack", "map"],
     "authors": [
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Владелец"},
-        {"name": "Maestro_Play", "nameMC": "maestro_playa", "subRole": ""},
+        {"name": "Maestro_Playa", "nameMC": "maestro_playa", "subRole": ""},
         {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""}
     ],
     "resources":[
