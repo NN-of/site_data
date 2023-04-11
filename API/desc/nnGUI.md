@@ -9,7 +9,7 @@
 ### Установка
 - Скачайте .zip-файл во вкладке релизы
 - Перенесите архив в папку /.minecraft/resourcepacks
----
+
 ### Авторские права
 Основа ресурспака не моя, поэтому упомяну их авторов:
 - Author | @AmongstReality (https://www.planetminecraft.com/member/amongstreality/)
