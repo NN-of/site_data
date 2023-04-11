@@ -1,6 +1,6 @@
 {
     "id": "nnGUI",
-    "title": "NikitaNik_of GUI-pack",
+    "title": "NikitaNik_of GUI",
     "description": "Ресурспак, сделанный мной для меня. Изменяет только GUI. Основан на \"Reimagined GUI\" ",
     "timeCreated": "",
     "timeUpdated": "",
@@ -12,11 +12,16 @@
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": ""}
     ],
     "resources":[
-        {"id": "GitHub", "link": "https://github.com/NN-of/NikitaNik-GUI-Pack"}
+        {"id": "GitHub", "link": "https://github.com/NN-of/NikitaNik-GUI"}
     ],
-    "noDesc": true,
-    "desc": "dcmp",
-    "noVersions": true,
+    "noDesc": false,
+    "desc": "nnGUI",
+    "noVersions": false,
     "versions": [
+        {
+            "verTitle": "NikitaNik_of GUI v0.1",
+            "verMC": "1.19.3 - 1.19.4",
+            "link": "https://github.com/NN-of/NikitaNik-GUI/releases/download/v0.1/NikitaNik_of.GUI.zip"
+        }
     ]
 }

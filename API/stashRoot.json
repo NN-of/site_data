@@ -3,6 +3,16 @@
     "inAlpha": true,
     "items":[
         {
+            "id": "nnGUI",
+            "title": "NikitaNik_of GUI",
+            "description": "Ресурспак, сделанный мной для меня. Изменяет только GUI. Основан на \"Reimagined GUI\" ",
+            "tags": ["resourcepack", "nn"],
+            "date": "11 апреля 2023",
+            "logo": "pack",
+            "img": "color",
+            "color":"#2d6cdf"
+        },
+        {
             "id": "debbikcraft_rp",
             "title": "DebbikCraft Pack",
             "description": "Основной ресурспак с кастомными текстурами и моделями для сервера.",
