@@ -1,0 +1,22 @@
+{
+    "id": "nnGui",
+    "title": "NikitaNik_of GUI-pack",
+    "description": "Ресурспак, сделанный мной для меня. Изменяет только GUI. Основан на \"Reimagined GUI\" ",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "logo": "logo",
+    "img": "color",
+    "color":"#2d6cdf",
+    "tags": ["resourcepack"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": ""}
+    ],
+    "resources":[
+        {"id": "GitHub", "link": "https://github.com/NN-of/NikitaNik-GUI-Pack"}
+    ],
+    "noDesc": true,
+    "desc": "dcmp",
+    "noVersions": true,
+    "versions": [
+    ]
+}
