@@ -20,6 +20,11 @@
     "noVersions": false,
     "versions": [
         {
+            "verTitle": "DebbikCraft RP v6.0",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v6.0/DebbikCraft.RP.v6.0.zip"
+        },
+        {
             "verTitle": "DebbikCraft RP v5.1.1",
             "verMC": "1.19.3",
             "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v5.1.1/DebbikCraft_RP_Pack_v5.1.1.zip"
