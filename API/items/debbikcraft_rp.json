@@ -10,8 +10,9 @@
     "authors": [
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Владелец"},
         {"name": "Maestro_Play", "nameMC": "maestro_playa", "subRole": ""},
-        {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""},
+        {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""},,
         {"name": "RomanPro100", "nameMC": "RomanPro100", "subRole": ""}
+        {"name": "midan404", "nameMC": "midan404", "subRole": ""}
     ],
     "resources":[
         {"id": "GitHub", "link": "https://github.com/NN-of/DebbikCraft-RP"}
@@ -20,6 +21,11 @@
     "desc": "dcrp",
     "noVersions": false,
     "versions": [
+        {
+            "verTitle": "DebbikCraft RP v6.2",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v6.2/DebbikCraft.RP.v6.2.zip"
+        },
         {
             "verTitle": "DebbikCraft RP v6.1",
             "verMC": "1.19.3",
