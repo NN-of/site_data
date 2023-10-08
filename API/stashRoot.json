@@ -4,22 +4,14 @@
     "items":[
         {
             "id": "DC2map",
-<<<<<<< HEAD
             "title": "Мир DC2",
-=======
-            "title": "Карта DC2",
->>>>>>> 9a98c895eaf99eff7a801c071d5b3be185fcf5c8
             "description": "Сейв мира второго сезона приватного сервера DebbikCraft 2",
             "tags": ["map", "nn"],
             "date": "8 октября 2023",
             "dateI": "2023/10/08",
             "logo": "",
             "img": "bg",
-<<<<<<< HEAD
             "color":"#09de80"
-=======
-            "color":"#09DE80"
->>>>>>> 9a98c895eaf99eff7a801c071d5b3be185fcf5c8
         },
         {
             "id": "nnGUI",
