@@ -1,13 +1,25 @@
 {
-    "pagesID": ["dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
+    "pagesID": ["DC2map", "dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
     "inAlpha": true,
     "items":[
+        {
+            "id": "DC2map",
+            "title": "Мир DC2",
+            "description": "Сейв мира второго сезона приватного сервера DebbikCraft 2",
+            "tags": ["map", "nn"],
+            "date": "8 октября 2023",
+            "dateI": "2023/10/08",
+            "logo": "",
+            "img": "bg",
+            "color":"#09de80"
+        },
         {
             "id": "nnGUI",
             "title": "NikitaNik_of GUI",
             "description": "Ресурспак, сделанный мной для меня. Изменяет только GUI. Основан на \"Reimagined GUI\" ",
             "tags": ["resourcepack", "nn"],
             "date": "11 апреля 2023",
+            "dateI": "2023/04/11",
             "logo": "pack",
             "img": "bg",
             "color":"#2d6cdf"
@@ -18,6 +30,7 @@
             "description": "Основной ресурспак с кастомными текстурами и моделями для сервера.",
             "tags": ["resourcepack", "nn"],
             "date": "30 января 2023",
+            "dateI": "2023/01/30",
             "img": "bg",
             "logo": "logo"
         },
@@ -26,7 +39,8 @@
             "title": "Lologood Mini-Games Map",
             "description": "Карта с 4 мини-играми, сделанная на день рождения LoloGood'a",
             "tags": ["map", "datapack", "npl"],
-            "date": "21 декабря 2023",
+            "date": "21 декабря 2022",
+            "dateI": "2022/12/21",
             "img": "bg",
             "logo": ""
         },
@@ -36,6 +50,7 @@
             "description": "Модпак, собранный специально для SMP сервера DebbikCraft",
             "tags": ["modpack", "nn"],
             "date": "9 февраля 2023",
+            "dateI": "2023/02/09",
             "logo": "logo",
             "img": "color",
             "color":"#008080"
@@ -46,6 +61,7 @@
             "description": "Урезанный модпак, собранный специально для SMP сервера DebbikCraft",
             "tags": ["modpack", "nn"],
             "date": "9 февраля 2023",
+            "dateI": "2023/02/09",
             "logo": "logo",
             "img": "color",
             "color":"#808080"
