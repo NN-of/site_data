@@ -4,12 +4,12 @@
     "items":[
         {
             "id": "DCE1-beta",
-            "title": "Мир с ивента \"Beta 1.20 \" ",
+            "title": "Мир с ивента \"Beta 1.20\" ",
             "description": "Сейв мира второго сезона приватного сервера DebbikCraft 2",
             "tags": ["map", "nn"],
             "date": "8 октября 2023",
             "dateI": "2023/10/08",
-            "logo": "",
+            "logo": "logo",
             "img": "color",
             "color":"#02F5D0"
         },
@@ -20,8 +20,8 @@
             "tags": ["map", "nn"],
             "date": "8 октября 2023",
             "dateI": "2023/10/08",
-            "logo": "",
-            "img": "color",
+            "logo": "logo",
+            "img": "bg",
             "color":"#09de80"
         },
         {

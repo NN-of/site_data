@@ -1,0 +1,28 @@
+{
+    "id": "DC2map",
+    "title": "Мир DC2",
+    "description": "Сейв мира второго сезона приватного сервера DebbikCraft 2",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "logo": "",
+    "img": "color",
+    "color":"#008080",
+    "tags": ["map"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Администратор"},
+        {"name": "Maestro_Playa", "nameMC": "maestro_playa", "subRole": "Модератор"},
+        {"name": "SandmanTheReal", "nameMC": "SandmanTheReal", "subRole": "Модератор"}
+    ],
+    "resources":[
+    ],
+    "noDesc": true,
+    "desc": "",
+    "noVersions": false,
+    "versions": [
+        {
+            "verTitle": "DebbikCraft-2.zip",
+            "verMC": "1.19.3",
+            "link": "https://github.com/NN-of/DC-Modpacks/releases/download/v1.0/DC.Modpack.zip"
+        }
+    ]
+}
