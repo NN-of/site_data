@@ -16,8 +16,8 @@
     ],
     "resources":[
     ],
-    "noDesc": true,
-    "desc": "",
+    "noDesc": false,
+    "desc": "DC1map",
     "noVersions": false,
     "versions": [
         {
