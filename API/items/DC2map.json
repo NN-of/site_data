@@ -4,8 +4,8 @@
     "description": "Сейв мира второго сезона приватного сервера DebbikCraft 2",
     "timeCreated": "",
     "timeUpdated": "",
-    "logo": "",
-    "img": "color",
+    "logo": "logo",
+    "img": "bg",
     "color":"#008080",
     "tags": ["map"],
     "authors": [
