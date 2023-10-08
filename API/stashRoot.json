@@ -1,7 +1,18 @@
 {
-    "pagesID": ["DC2map", "dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
+    "pagesID": ["DCE1-beta", "DC2map", "dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
     "inAlpha": true,
     "items":[
+        {
+            "id": "DCE1-beta",
+            "title": "Мир с ивента \"Beta 1.20 \" ",
+            "description": "Сейв мира второго сезона приватного сервера DebbikCraft 2",
+            "tags": ["map", "nn"],
+            "date": "8 октября 2023",
+            "dateI": "2023/10/08",
+            "logo": "",
+            "img": "color",
+            "color":"#02F5D0"
+        },
         {
             "id": "DC2map",
             "title": "Мир DC2",
