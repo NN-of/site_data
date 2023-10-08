@@ -10,9 +10,10 @@
     "tags": ["map", "modpack"],
     "authors": [
         {"name": "MrLologood", "nameMC": "MrLologood", "subRole": "Администратор"},
-        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Модератор"},
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Зам. админа"},
         {"name": "Maestro_Playa", "nameMC": "maestro_playa", "subRole": "Модератор"},
-        {"name": "SandmanTheReal", "nameMC": "SandmanTheReal", "subRole": "Модератор"}
+        {"name": "SandmanTheReal", "nameMC": "SandmanTheReal", "subRole": "Модератор"},
+        {"name": "midan404", "nameMC": "midan404", "subRole": "Тех. модератор"}
     ],
     "resources":[
     ],
