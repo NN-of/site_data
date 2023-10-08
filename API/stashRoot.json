@@ -1,9 +1,9 @@
 {
-    "pagesID": ["DCE1-beta", "DC2map", "dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
+    "pagesID": ["DCE1-Beta", "DC2map", "dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
     "inAlpha": true,
     "items":[
         {
-            "id": "DCE1-beta",
+            "id": "DCE1-Beta",
             "title": "Мир с ивента \"Beta 1.20\"",
             "description": "Сейв мира первого сервера проекта DC:Events. Для запуска небходимо поставить модпак!",
             "tags": ["map", "modpack", "nn"],
