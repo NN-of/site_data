@@ -1,0 +1,29 @@
+{
+    "id": "DC1map",
+    "title": "Мир DC1",
+    "description": "Сейв мира второго сезона приватного сервера DebbikCraft",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "logo": "logo",
+    "img": "bg2",
+    "color":"#008080",
+    "tags": ["map"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Администратор"},
+        {"name": "Maestro_Playa", "nameMC": "maestro_playa", "subRole": "Модератор"},
+        {"name": "SandmanTheReal", "nameMC": "SandmanTheReal", "subRole": "Модератор"},
+        {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": "Модератор"}
+    ],
+    "resources":[
+    ],
+    "noDesc": true,
+    "desc": "",
+    "noVersions": false,
+    "versions": [
+        {
+            "verTitle": "DebbikCraft-1.zip",
+            "verMC": "1.17.1",
+            "link": "https://drive.google.com/uc?export=download&id=1yp2fn8qbc_-K89w6ZLO7akkhdg8m3XBA"
+        }
+    ]
+}

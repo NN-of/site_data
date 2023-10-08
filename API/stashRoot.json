@@ -25,6 +25,17 @@
             "color":"#09de80"
         },
         {
+            "id": "DC1map",
+            "title": "Мир DC1",
+            "description": "Сейв мира первый сезона приватного сервера DebbikCraft",
+            "tags": ["map", "nn"],
+            "date": "8 октября 2023",
+            "dateI": "2023/10/08",
+            "logo": "logo",
+            "img": "bg",
+            "color":"#09de80"
+        },
+        {
             "id": "nnGUI",
             "title": "NikitaNik_of GUI",
             "description": "Ресурспак, сделанный мной для меня. Изменяет только GUI. Основан на \"Reimagined GUI\" ",
