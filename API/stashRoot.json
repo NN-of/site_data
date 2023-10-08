@@ -4,9 +4,9 @@
     "items":[
         {
             "id": "DCE1-beta",
-            "title": "Мир с ивента \"Beta 1.20\" ",
-            "description": "Сейв мира второго сезона приватного сервера DebbikCraft 2",
-            "tags": ["map", "nn"],
+            "title": "Мир с ивента \"Beta 1.20\"",
+            "description": "Сейв мира первого сервера проекта DC:Events. Для запуска небходимо поставить модпак!",
+            "tags": ["map", "modpack", "nn"],
             "date": "8 октября 2023",
             "dateI": "2023/10/08",
             "logo": "logo",

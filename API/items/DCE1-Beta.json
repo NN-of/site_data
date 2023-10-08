@@ -1,0 +1,29 @@
+{
+    "id": "DCE1-Beta",
+    "title": "Мир с ивента \"Beta 1.20\"",
+    "description": "Сейв мира первого сервера проекта DC:Events. Для запуска небходимо поставить модпак!",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "logo": "logo",
+    "img": "bg",
+    "color":"#008080",
+    "tags": ["map", "modpack"],
+    "authors": [
+        {"name": "MrLologood", "nameMC": "MrLologood", "subRole": "Администратор"},
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Модератор"},
+        {"name": "Maestro_Playa", "nameMC": "maestro_playa", "subRole": "Модератор"},
+        {"name": "SandmanTheReal", "nameMC": "SandmanTheReal", "subRole": "Модератор"}
+    ],
+    "resources":[
+    ],
+    "noDesc": true,
+    "desc": "",
+    "noVersions": true,
+    "versions": [
+        {
+            "verTitle": "Beta 1.20.zip",
+            "verMC": "1.20.1",
+            "link": ""
+        }
+    ]
+}
