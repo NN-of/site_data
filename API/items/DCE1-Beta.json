@@ -18,12 +18,22 @@
     ],
     "noDesc": true,
     "desc": "",
-    "noVersions": true,
+    "noVersions": false,
     "versions": [
         {
             "verTitle": "Beta 1.20.zip",
             "verMC": "1.20.1",
-            "link": ""
+            "link": "https://drive.google.com/uc?export=download&id=1cBV74ENjVwjSeij_pzaPGqdo-VDXSHhu"
+        },
+        {
+            "verTitle": "Beta 1.20 Modpack.zip",
+            "verMC": "1.20.1",
+            "link": "https://drive.google.com/uc?export=download&id=1VKnIMY9DaV05NKALHk2KFuyIsrZY2PsO"
+        },
+        {
+            "verTitle": "Beta 1.20 Resourcepack.zip",
+            "verMC": "1.20.1",
+            "link": "https://drive.google.com/uc?export=download&id=1Qb6ih8-7YwUBhYonvVGAwdWETLVeozmv"
         }
     ]
 }
