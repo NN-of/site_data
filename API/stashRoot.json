@@ -1,7 +1,18 @@
 {
-    "pagesID": ["DCE1-Beta", "DC2map", "DC1map", "dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
+    "pagesID": ["gandonchiki", "DCE1-Beta", "DC2map", "DC1map", "dcmpe", "dcmp", "testProject", "lologoood_map", "debbikcraft_rp", "nnGUI"],
     "inAlpha": true,
     "items":[
+        {
+            "id": "gandonchiki",
+            "title": "Фантомы, GND Edition",
+            "description": "Приколовый ресурспак,, с бесплатным предоставлением 10 минут контента!",
+            "tags": ["resourcepack", "nn"],
+            "date": "8 декабря 2023",
+            "dateI": "2023/12/08",
+            "logo": "logo",
+            "img": "color",
+            "color":"#071a52"
+        },
         {
             "id": "DCE1-Beta",
             "title": "Мир с ивента \"Beta 1.20\"",

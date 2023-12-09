@@ -1,0 +1,26 @@
+{
+    "id": "gandonchiki",
+    "title": "Фантомы, GND Edition",
+    "description": "Приколовый ресурспак,, с бесплатным предоставлением 10 минут контента!",
+    "timeCreated": "",
+    "timeUpdated": "",
+    "logo": "logo",
+    "img": "color",
+    "color":"#008080",
+    "tags": ["resourcepack"],
+    "authors": [
+        {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Приколист"}
+    ],
+    "resources":[
+    ],
+    "noDesc": true,
+    "desc": "",
+    "noVersions": false,
+    "versions": [
+        {
+            "verTitle": "gandonchiki.zip",
+            "verMC": "1.20.1",
+            "link": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1eCuwh9lxtxrUtzWz2cMMcvxm9TfCPaJL"
+        }
+    ]
+}
