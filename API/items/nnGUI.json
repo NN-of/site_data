@@ -19,8 +19,13 @@
     "noVersions": false,
     "versions": [
         {
+            "verTitle": "NikitaNik_of GUI v0.2",
+            "verMC": "1.20.2 - 1.20.4",
+            "link": "https://github.com/NN-of/NikitaNik-GUI/releases/download/v0.2/NikitaNik_of.GUI.zip"
+        },
+        {
             "verTitle": "NikitaNik_of GUI v0.1",
-            "verMC": "1.19.3 - 1.19.4",
+            "verMC": "1.19.3 - 1.20.1",
             "link": "https://github.com/NN-of/NikitaNik-GUI/releases/download/v0.1/NikitaNik_of.GUI.zip"
         }
     ]
