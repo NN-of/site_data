@@ -9,10 +9,10 @@
     "tags": ["resourcepack"],
     "authors": [
         {"name": "NikitaNik_of", "nameMC": "NikitaNik_of", "subRole": "Владелец"},
+        {"name": "Pe3epWithYou", "nameMC": "Pe3ep", "subRole": "Модератор пака"},
         {"name": "Maestro_Play", "nameMC": "maestro_playa", "subRole": ""},
-        {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""},
         {"name": "RomanPro100", "nameMC": "RomanPro100", "subRole": ""},
-        {"name": "midan404", "nameMC": "midan404", "subRole": ""}
+        {"name": "foxi_channel_00", "nameMC": "foxi_channel_00", "subRole": ""}
     ],
     "resources":[
         {"id": "GitHub", "link": "https://github.com/NN-of/DebbikCraft-RP"}
@@ -21,6 +21,11 @@
     "desc": "dcrp",
     "noVersions": false,
     "versions": [
+        {
+            "verTitle": "DebbikCraft RP v7.0.0",
+            "verMC": "1.21",
+            "link": "https://github.com/NN-of/DebbikCraft-RP/releases/download/v7.0.0/DCRP_v7-0-0.zip"
+        },
         {
             "verTitle": "DebbikCraft RP v6.2",
             "verMC": "1.19.3",
